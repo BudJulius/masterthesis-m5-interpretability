@@ -39,4 +39,4 @@ The FRED series data was selectively downloaded for the period of 2011-2016
 The link to the thesis paper, or the paper itself, will be provided here after it has been graded.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BudJulius/masterthesis-retail-forecasting-xai/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/BudJulius/masterthesis-m5-interpretability/blob/main/LICENSE) file for details.
